@@ -25,3 +25,4 @@ VIMRC_BACKGROUND
 FUNC
 done;
 [ -f ~/.base16_theme ] && echo ". ~/.base16_theme"
+
